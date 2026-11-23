@@ -1,2 +1,1 @@
-# dshgo-AI-assistant-of-Miss-wei
-魏老师的 dsh-go AI 助理：人格提示词、安装说明、打包配置
+给魏老师做的ai助手包，在dshgo里发仓库链接即可一键使用
