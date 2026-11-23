@@ -1,0 +1,1 @@
+{"t":"2026-11-23T22:58:01+08:00","src":"manual","kind":"note","text":"记忆系统上线：四柜（看板/决议/流水/归档），命令 node bin/mem.mjs 和 node bin/memcore.mjs"}

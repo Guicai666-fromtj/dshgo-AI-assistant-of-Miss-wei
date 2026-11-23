@@ -1,0 +1,95 @@
+{
+  "facts": [
+    {
+      "key": "称呼",
+      "value": "魏老师",
+      "core": true,
+      "removed": false,
+      "updated": "2026-11-23T22:57:59+08:00"
+    },
+    {
+      "key": "身份",
+      "value": "天津市实验中学数学老师",
+      "core": true,
+      "removed": false,
+      "updated": "2026-11-23T22:57:59+08:00"
+    },
+    {
+      "key": "学历",
+      "value": "未知",
+      "core": true,
+      "removed": false,
+      "updated": "2026-11-23T23:16:40+08:00"
+    },
+    {
+      "key": "身高",
+      "value": "未知",
+      "core": false,
+      "removed": false,
+      "updated": "2026-11-23T22:58:00+08:00"
+    },
+    {
+      "key": "体重",
+      "value": "未知",
+      "core": false,
+      "removed": false,
+      "updated": "2026-11-23T22:58:00+08:00"
+    },
+    {
+      "key": "睡眠",
+      "value": "未知",
+      "core": false,
+      "removed": false,
+      "updated": "2026-11-23T22:58:00+08:00"
+    },
+    {
+      "key": "身体",
+      "value": "未知",
+      "core": false,
+      "removed": false,
+      "updated": "2026-11-23T22:58:00+08:00"
+    },
+    {
+      "key": "教学进度.教材年级",
+      "value": "未知",
+      "core": false,
+      "removed": false,
+      "updated": "2026-11-23T22:58:00+08:00"
+    },
+    {
+      "key": "教学进度.当前章节",
+      "value": "未知",
+      "core": true,
+      "removed": false,
+      "updated": "2026-11-23T22:58:00+08:00"
+    },
+    {
+      "key": "教学进度.周课时",
+      "value": "未知",
+      "core": false,
+      "removed": false,
+      "updated": "2026-11-23T22:58:01+08:00"
+    },
+    {
+      "key": "教学进度.下次要讲",
+      "value": "未知",
+      "core": false,
+      "removed": false,
+      "updated": "2026-11-23T22:58:01+08:00"
+    },
+    {
+      "key": "规矩.隐私",
+      "value": "她的身体数据只有本人报了才记，不打听、不外传",
+      "core": true,
+      "removed": false,
+      "updated": "2026-11-23T22:58:01+08:00"
+    },
+    {
+      "key": "教学进度.作业资料格式",
+      "value": "未知（卷子、讲义、PPT 各是什么样）",
+      "core": false,
+      "removed": false,
+      "updated": "2026-11-23T22:58:25+08:00"
+    }
+  ]
+}
