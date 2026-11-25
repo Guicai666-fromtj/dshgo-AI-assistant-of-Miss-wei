@@ -1,12 +1,13 @@
 {
   "name": "wei-teacher-ai-assistant",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": true,
   "description": "魏老师的AI助理",
   "type": "module",
   "scripts": {
     "mem": "node bin/mem.mjs",
     "memcore": "node bin/memcore.mjs",
-    "check": "node bin/memcore.mjs check"
+    "check": "node bin/memcore.mjs check",
+    "asr": "python3 bin/asr-sensevoice.py"
   }
 }
